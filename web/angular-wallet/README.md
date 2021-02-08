@@ -6,7 +6,7 @@ The BURST Angular wallet is a JavaScript application written in Angular and Type
 
 Share your ideas, discuss Burst and help each other.
 
-[Click here](http://reddit.com/r/burstcoin) to see our Community page.
+[Click here](http://reddit.com/r/burst) to see our Community page.
 
 ## Development server
 
